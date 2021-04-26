@@ -1,0 +1,5 @@
+video/
+# dependencies
+node_modules/
+fileCsv/
+json/

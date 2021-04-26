@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "assert": "^2.0.0",
+    "aws-sdk": "^2.886.0",
+    "axios": "^0.21.1",
+    "csv-parse": "^4.15.3",
+    "json-multiline-strings": "^0.1.0",
+    "line-by-line": "^0.1.6",
+    "nanoid": "^3.1.22",
+    "querystring": "^0.2.1",
+    "request": "^2.88.2",
+    "utf8": "^3.0.0"
+  }
+}
